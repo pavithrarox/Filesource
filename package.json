@@ -1,6 +1,6 @@
 {
 	"name": "filesource-p",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "Takes either a web-url, filepath, or raw data and returns given data as a filepath, or raw data",
 	"engine": "node >= 0.6.0",
 	"main": "./lib/filesource.js",
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:thnew/Filesource.git"
+		"url": "git@github.com:pavithrarox/Filesource.git"
 	},
-	"homepage": "https://github.com/thnew/Filesource"
+	"homepage": "https://github.com/pavithrarox/Filesource"
 }
